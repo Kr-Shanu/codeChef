@@ -1,0 +1,1 @@
+{"name":"Local: STRNG","url":"/Users/kumarshanu/Desktop/my/codeChef/STRNG.java","tests":[{"id":1656093939885,"input":"3\n3\n5 10 20\n4\n3 5 7 11\n4\n2 2 2 2","output":"3\n0\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/kumarshanu/Desktop/my/codeChef/STRNG.java","group":"local","local":true}

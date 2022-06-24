@@ -1,0 +1,1 @@
+{"name":"Local: ALTARAY","url":"/Users/kumarshanu/Desktop/my/codeChef/ALTARAY.java","tests":[{"id":1655314190101,"input":"3\n4\n1 2 3 4\n4\n1 -5 1 -5\n6\n-5 -1 -1 2 -2 -3","output":"1 1 1 1\n4 3 2 1\n1 1 3 2 1 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/kumarshanu/Desktop/my/codeChef/ALTARAY.java","group":"local","local":true}
