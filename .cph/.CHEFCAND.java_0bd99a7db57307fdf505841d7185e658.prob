@@ -1,0 +1,1 @@
+{"name":"Local: CHEFCAND","url":"/Users/kumarshanu/Desktop/my/codeChef/CHEFCAND.java","tests":[{"id":1657385284892,"input":"4\n20 12\n10 100\n10 9\n20 9","output":"2\n0\n1\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/kumarshanu/Desktop/my/codeChef/CHEFCAND.java","group":"local","local":true}

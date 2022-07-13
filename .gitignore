@@ -1,6 +1,8 @@
 #java
 *.class
 
+# *.prob
+
 # Prerequisites
 *.d
 
